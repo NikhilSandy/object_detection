@@ -1,0 +1,14 @@
+accelerate
+albumentations
+numpy
+Pillow
+pyyaml
+scipy
+torch
+torchvision
+torchmetrics[detection]
+tqdm
+transformers
+trackio
+pycocotools
+huggingface_hub
