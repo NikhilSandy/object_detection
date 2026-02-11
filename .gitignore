@@ -1,0 +1,22 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+venv/
+
+# Editor
+.vscode/
+
+# Training artifacts and logs
+logs/
+outputs/
+outputs_smoke/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# OS files
+.DS_Store
